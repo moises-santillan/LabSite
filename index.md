@@ -8,6 +8,6 @@ permalink: /
 nav-include: false
 ---
 
-## Bienvenido al Jardín Botánico Digital del Colegio Formus
+## Welcome to the Quantitative Physiology Lab
 
-Este portal es el resultado del trabajo de los alumnos de sexto grado y los padres voluntarios, quienes se han dedicado a lo largo de los años a catalogar y documentar la riqueza vegetal que adorna nuestros jardines. Nuestro propósito es transformar los espacios verdes del colegio en un aula viva, ayudando a toda la comunidad a apreciar y aprender sobre botánica y ecología. 
+Our research operates at the intersection of the life sciences, physics, and mathematics. We are dedicated to applying quantitative frameworks to address fundamental physiological challenges and improve our understanding of complex biological systems.
