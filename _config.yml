@@ -32,7 +32,8 @@ url: "https://moises-santillan.github.io/LabSite" # the base hostname & protocol
 remote_theme: "jekyll/minima@1e8a445"
 plugins:
   - jekyll-feed
-
+  - jekyll-target-blank
+  
 minima:
   skin: solarized-light
 
