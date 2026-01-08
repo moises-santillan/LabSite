@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Conócenos
-permalink: /conocenos/
+title: Research
+permalink: /research/
 nav-include: true
 nav-order: 1
 ---

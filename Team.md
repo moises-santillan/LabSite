@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Conócenos
-permalink: /conocenos/
+title: Tean
+permalink: /team/
 nav-include: true
-nav-order: 1
+nav-order: 2
 ---
 
 ### El Colegio

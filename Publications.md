@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Conócenos
-permalink: /conocenos/
+title: Publications
+permalink: /publications/
 nav-include: true
-nav-order: 1
+nav-order: 3
 ---
 
 ### El Colegio
