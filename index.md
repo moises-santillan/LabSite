@@ -8,8 +8,8 @@ permalink: /
 nav-include: false
 ---
 
-## Welcome to the Quantitative Physiology Lab
+## Were Equations Meet Biology
 
-Our research operates at the intersection of the life sciences, physics, and mathematics. We are dedicated to applying quantitative frameworks to address fundamental physiological challenges and improve our understanding of complex biological systems.
+The Quantitative Physiology Lab operates at the intersection of Life Sciences, Physics, and Mathematics. We are dedicated to applying quantitative frameworks to address fundamental physiological challenges and improve our understanding of complex biological systems.
 
 ![Lab Image](assets/images/QPhysiol.png)
