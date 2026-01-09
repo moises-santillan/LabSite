@@ -1,3 +1,4 @@
+
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
@@ -35,7 +36,7 @@ plugins:
   - jekyll-target-blank
   
 minima:
-  skin: solarized-light
+  skin: classic
 
 # _config.yml
 
