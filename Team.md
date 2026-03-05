@@ -17,6 +17,8 @@ nav-order: 2
 * [Rebeca Manning-Cela](https://www.cinvestav.mx/zacatenco/biomedicina-molecular/investigacion/directorio-de-investigacion/rebeca-manning-cela)
 * [Lev Guzmán-Vargas](https://sites.google.com/site/guzmanlev/)
 * [Roxana G. Gutiérrez-Vidal](https://www.cinvestav.mx/mty/investigacion/directorio-de-investigacion/roxana-guadalupe-guti233rrez-vidal)
+* [Azucena Salazar Piña](https://scholar.google.com/citations?user=fbUq-V8AAAAJ&hl=es)
+* Gemma G. Fernández Mendoza
 
 #### PhD Students
 
@@ -26,6 +28,10 @@ nav-order: 2
 
 * Andrea Loperena-Olvera
 * Carlos Esteban Higuera-Méndez
+
+#### Visiting Students
+
+* Alma Velia Peña Vázquez
 
 ---
 
