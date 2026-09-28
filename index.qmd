@@ -1,7 +1,13 @@
 ---
-title: "LabSite"
+title: "Quantitative Physiology Lab"
+image: media/head.jpg
+toc: false
+about: 
+  template: jolla
+  image-shape: rectangle
+  image-width: 30em
 ---
 
-This is a Quarto website.
+## Were Equations Meet Biology
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+The Quantitative Physiology Lab operates at the intersection of Life Sciences, Physics, and Mathematics. We are dedicated to applying quantitative frameworks to address fundamental physiological challenges and improve our understanding of complex biological systems.

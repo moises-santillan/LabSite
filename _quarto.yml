@@ -1,13 +1,21 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "LabSite"
+  title: "Quantitative Physiology Lab"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: research.qmd
+        text: Research
+      - href: team.qmd
+        text: Team
+      - href: publications.qmd
+        text: Publications
+  margin-header: | 
+      ![](/media/cinvestav.png){width=75}
 
 format:
   html:
