@@ -6,7 +6,7 @@ title: Team
 
 #### PI
 
-[Moisés Santillán](https://moises-santillan.github.io/)
+* [Moisés Santillán](https://moises-santillan.github.io/)
 
 #### Collaborators
 
