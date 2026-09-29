@@ -10,4 +10,4 @@ about:
 
 ## Were Equations Meet Biology
 
-The Quantitative Physiology Lab operates at the intersection of Life Sciences, Physics, and Mathematics. We are dedicated to applying quantitative frameworks to address fundamental physiological challenges and improve our understanding of complex biological systems.
+The Quantitative Physiology Lab at [Cinvestav](https://www.cinvestav.mx/) [Monterrey](https://www.cinvestav.mx/monterrey) operates at the intersection of Life Sciences, Physics, and Mathematics. We are dedicated to applying quantitative frameworks to address fundamental physiological challenges and improve our understanding of complex biological systems.
